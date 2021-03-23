@@ -11,7 +11,7 @@ thanks for installing invinciable browser the browser to stop pesky teachers and
 
 --------------------------------------------------------------------------------------------------------------------------
 
-YOU WILL NEED PYTHON TO BOOT WITH ALL KEY FEATURES!
+USE LAUNCER TO DISABLE IMPERO
 
 --------------------------------------------------------------------------------------------------------------------------
 patchnotes:
@@ -24,3 +24,9 @@ added reopen last page
 ver 2:
 added the big one
 started work on custom browser
+
+ver 3:
+removed python launcher
+added bat launcer
+added the custom browser 
+added impero emp
