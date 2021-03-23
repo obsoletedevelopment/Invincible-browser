@@ -1,0 +1,9 @@
+C:\Users\theoh\source\repos\browser-custom\browser-custom\bin\Release\browser-custom.exe.config
+C:\Users\theoh\source\repos\browser-custom\browser-custom\bin\Release\browser-custom.exe
+C:\Users\theoh\source\repos\browser-custom\browser-custom\bin\Release\browser-custom.pdb
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser_custom.Form1.resources
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser_custom.Properties.Resources.resources
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser-custom.csproj.GenerateResource.cache
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser-custom.csproj.CoreCompileInputs.cache
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser-custom.exe
+C:\Users\theoh\source\repos\browser-custom\browser-custom\obj\Release\browser-custom.pdb
