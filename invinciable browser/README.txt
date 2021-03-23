@@ -9,8 +9,11 @@
 
 thanks for installing invinciable browser the browser to stop pesky teachers and just for general use!
 
+--------------------------------------------------------------------------------------------------------------------------
 
+YOU WILL NEED PYTHON TO BOOT WITH ALL KEY FEATURES!
 
+--------------------------------------------------------------------------------------------------------------------------
 patchnotes:
 
 ver 1:
