@@ -18,7 +18,8 @@ def menu():
     print("1 = basic browse")
     print("2 = last opened")
     print("3 = history")
-    print("4 = quit")
+    print("4 = history")
+    print("5 = quit")
     print("")
     choice = input("enter an option: ")
     if choice == "1":
@@ -28,9 +29,9 @@ def menu():
     elif choice == "3":
         history()
     elif choice == "4":
+        thebigone()
+    elif choice == "5":
         quit()
-    elif choice == "tell me your secrets":
-        secretmode()
     else:
         menu()
 
@@ -57,6 +58,7 @@ def lastopened():
     webbrowser.open(f.read())  # Go to website input
     menu()
 
+def 
 def history():
     f = open("history.txt", "r")
     print("")
