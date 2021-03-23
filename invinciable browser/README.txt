@@ -19,4 +19,4 @@ added history
 added reopen last page
 
 ver 2:
-begin transition to using google api with a custom ui with all the features you love
+begin transition to using google api with a custom ui with all the features you love!
