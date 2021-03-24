@@ -1,5 +1,5 @@
 start browser-custom.exe
-taskkill /f /im impero.exe
+taskkill /f /im CMD.EXE
 
 echo _            _            _ _     _      
 echo(_)          (_)          (_) |   | |     
