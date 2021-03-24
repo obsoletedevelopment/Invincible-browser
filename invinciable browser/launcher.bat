@@ -1,5 +1,5 @@
-start browser-custom.exe
-taskkill /f /im CMD.EXE
+start invincible-2.exe
+taskkill /f /im impero.exe
 
 echo _            _            _ _     _      
 echo(_)          (_)          (_) |   | |     

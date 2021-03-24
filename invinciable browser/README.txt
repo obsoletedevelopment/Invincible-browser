@@ -30,3 +30,7 @@ removed python launcher
 added bat launcer
 added the custom browser 
 added impero emp
+
+ver 4:
+added the new browser with microsoft edge
+removed old browser
