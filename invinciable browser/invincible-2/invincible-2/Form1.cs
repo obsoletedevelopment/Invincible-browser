@@ -25,7 +25,7 @@ namespace invincible_2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            webviewpanel.CoreWebView2.Navigate("https://www.google.com");
+            webviewpanel.CoreWebView2.Navigate("https://obsoletedevelopment.github.io/browserhomepage.html");
         }
 
         private void button1_Click(object sender, EventArgs e)

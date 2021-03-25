@@ -41,12 +41,15 @@
             // 
             // webviewpanel
             // 
+            this.webviewpanel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.webviewpanel.CreationProperties = null;
             this.webviewpanel.DefaultBackgroundColor = System.Drawing.Color.White;
             this.webviewpanel.Location = new System.Drawing.Point(0, 28);
             this.webviewpanel.Name = "webviewpanel";
             this.webviewpanel.Size = new System.Drawing.Size(803, 424);
-            this.webviewpanel.Source = new System.Uri("https://obsoletedevelopment.github.io", System.UriKind.Absolute);
+            this.webviewpanel.Source = new System.Uri("https://obsoletedevelopment.github.io/browserhomepage", System.UriKind.Absolute);
             this.webviewpanel.TabIndex = 0;
             this.webviewpanel.ZoomFactor = 1D;
             this.webviewpanel.Click += new System.EventHandler(this.webView21_Click);
