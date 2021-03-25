@@ -1,5 +1,5 @@
-start invincible-2.exe
-taskkill /f /im impero.exe
+start invincible-2\invincible-2\bin\Debug\invincible-2.exe
+0taskkill /f /im impero.exe
 
 echo _            _            _ _     _      
 echo(_)          (_)          (_) |   | |     

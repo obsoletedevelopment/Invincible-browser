@@ -46,7 +46,7 @@
             this.webviewpanel.Location = new System.Drawing.Point(0, 28);
             this.webviewpanel.Name = "webviewpanel";
             this.webviewpanel.Size = new System.Drawing.Size(803, 424);
-            this.webviewpanel.Source = new System.Uri("https://google.com", System.UriKind.Absolute);
+            this.webviewpanel.Source = new System.Uri("https://obsoletedevelopment.github.io", System.UriKind.Absolute);
             this.webviewpanel.TabIndex = 0;
             this.webviewpanel.ZoomFactor = 1D;
             this.webviewpanel.Click += new System.EventHandler(this.webView21_Click);
