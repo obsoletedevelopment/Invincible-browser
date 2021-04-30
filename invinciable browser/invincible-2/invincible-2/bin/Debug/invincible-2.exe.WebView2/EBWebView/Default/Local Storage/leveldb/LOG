@@ -1,3 +1,6 @@
-2021/03/25-19:01:00.667 d70 Reusing MANIFEST C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2021/03/25-19:01:00.668 d70 Recovering log #4
-2021/03/25-19:01:00.669 d70 Reusing old log C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000004.log 
+2021/03/25-21:36:36.154 40a4 Reusing MANIFEST C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2021/03/25-21:36:36.155 40a4 Recovering log #4
+2021/03/25-21:36:36.218 40a4 Reusing old log C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000004.log 
+2021/03/25-21:44:37.729 31a0 Level-0 table #7: started
+2021/03/25-21:44:37.801 31a0 Level-0 table #7: 11537 bytes OK
+2021/03/25-21:44:37.868 31a0 Delete type=0 #4

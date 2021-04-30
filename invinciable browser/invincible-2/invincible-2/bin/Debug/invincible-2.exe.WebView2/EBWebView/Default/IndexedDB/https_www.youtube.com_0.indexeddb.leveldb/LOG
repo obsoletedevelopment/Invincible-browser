@@ -1,3 +1,7 @@
-2021/03/24-22:22:46.053 2720 Reusing MANIFEST C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/24-22:22:46.054 2720 Recovering log #3
-2021/03/24-22:22:46.129 2720 Reusing old log C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/03/25-21:43:59.215 4d0c Reusing MANIFEST C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/25-21:43:59.216 4d0c Recovering log #3
+2021/03/25-21:43:59.250 4d0c Reusing old log C:\Users\theoh\Documents\GitHub\Invincible-browser\invinciable browser\invincible-2\invincible-2\bin\Debug\invincible-2.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/03/25-21:44:39.723 1c44 Level-0 table #5: started
+2021/03/25-21:44:39.763 1c44 Level-0 table #5: 66547 bytes OK
+2021/03/25-21:44:39.792 1c44 Delete type=0 #3
+2021/03/25-21:44:39.792 1c44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
